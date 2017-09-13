@@ -1,9 +1,0 @@
-Competencies
-
-Now it’s time to write apps with persistent memory, a simple example of which would be a blog
-Sinatra doesn’t have a built-in database, you can use gems such as PostgreSQL and SQLite to remedy that with one line of code
-Sinatra handles ActiveRecord with Rake, just as we have been using before
-Data from the database (model) integrates seamlessly and is served up by a route handler (controller) to the browser (view) 
-
-Applications
-Create apps backed by databases

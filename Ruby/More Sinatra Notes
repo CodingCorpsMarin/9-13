@@ -1,0 +1,10 @@
+Competencies
+
+As mentioned before, Sinatra is a very lightweight framework for developing web applications in Ruby
+Because it is so freeflowing, there is not one "correct" way to write a Sinatra application
+This open concept lends itself to better understanding how data flows in a web application and will lend itself to understanding how Rails 
+works
+
+
+Applications
+Understand dataflow in a Web App
